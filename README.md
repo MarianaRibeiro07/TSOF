@@ -35,6 +35,7 @@ Este projeto tem como objetivo validar o cálculo do montante final de uma compr
 └── Plano de Testes.pdf   # Documentação técnica e matriz GOT
 ```[cite: 1, 2, 3, 4]
 
+---
 ## 🚀 Como Executar o Projeto
 
 ### Pré-requisitos
